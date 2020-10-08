@@ -1,0 +1,1873 @@
+# depslib dependency file v1.0
+1520761884 source:c:\users\c_yefta\desktop\city tour ver3\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver3\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver3\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1523897013 source:c:\users\c_yefta\desktop\city tour ver3\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+
+1471503160 c:\users\c_yefta\desktop\city tour ver3\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1520784513 c:\users\c_yefta\desktop\city tour ver3\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1523100885 c:\users\c_yefta\desktop\city tour ver3\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\users\c_yefta\desktop\city tour ver3\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\users\c_yefta\desktop\city tour ver3\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\defs.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\compiler\pushpack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\compiler\poppack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\quaternion.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\config.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\light.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\camera.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\material.inl
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver3\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\users\c_yefta\desktop\city tour ver3\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1520785575 source:c:\users\c_yefta\desktop\city tour ver3\stb_image.cpp
+	"stb_image.h"
+
+1520761884 source:c:\users\c_yefta\desktop\city tour ver4\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver4\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver4\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1520785575 source:c:\users\c_yefta\desktop\city tour ver4\stb_image.cpp
+	"stb_image.h"
+
+1520784513 c:\users\c_yefta\desktop\city tour ver4\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1523938285 source:c:\users\c_yefta\desktop\city tour ver4\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+
+1471503160 c:\users\c_yefta\desktop\city tour ver4\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1523100885 c:\users\c_yefta\desktop\city tour ver4\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\users\c_yefta\desktop\city tour ver4\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\users\c_yefta\desktop\city tour ver4\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\defs.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\compiler\pushpack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\compiler\poppack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\quaternion.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\config.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\light.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\camera.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\material.inl
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver4\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\users\c_yefta\desktop\city tour ver4\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1520761884 source:c:\users\c_yefta\desktop\city tour ver5\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver5\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver5\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1520785575 source:c:\users\c_yefta\desktop\city tour ver5\stb_image.cpp
+	"stb_image.h"
+
+1520784513 c:\users\c_yefta\desktop\city tour ver5\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1520761884 source:c:\users\c_yefta\desktop\city tour ver6\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver6\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\users\c_yefta\desktop\city tour ver6\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1520785575 source:c:\users\c_yefta\desktop\city tour ver6\stb_image.cpp
+	"stb_image.h"
+
+1520784513 c:\users\c_yefta\desktop\city tour ver6\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1524126598 source:c:\users\c_yefta\desktop\city tour ver6\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+	<Windows.h>
+	<MMSystem.h>
+
+1471503160 c:\users\c_yefta\desktop\city tour ver6\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1523100885 c:\users\c_yefta\desktop\city tour ver6\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\users\c_yefta\desktop\city tour ver6\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\users\c_yefta\desktop\city tour ver6\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\defs.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\compiler\pushpack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\compiler\poppack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\quaternion.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\config.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\light.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\camera.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\material.inl
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver6\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\users\c_yefta\desktop\city tour ver6\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1524033294 source:c:\users\c_yefta\desktop\city tour ver5\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+	<Windows.h>
+	<MMSystem.h>
+
+1471503160 c:\users\c_yefta\desktop\city tour ver5\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1523100885 c:\users\c_yefta\desktop\city tour ver5\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\users\c_yefta\desktop\city tour ver5\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\users\c_yefta\desktop\city tour ver5\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\defs.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\compiler\pushpack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\compiler\poppack1.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\quaternion.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\config.h
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\light.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\camera.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\material.inl
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\users\c_yefta\desktop\city tour ver5\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\users\c_yefta\desktop\city tour ver5\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1520761884 source:c:\users\c_yefta\desktop\project cg\city tour ver6\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\users\c_yefta\desktop\project cg\city tour ver6\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\users\c_yefta\desktop\project cg\city tour ver6\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1524144504 source:c:\users\c_yefta\desktop\project cg\city tour ver6\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+	<Windows.h>
+	<MMSystem.h>
+
+1471503160 c:\users\c_yefta\desktop\project cg\city tour ver6\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1520784513 c:\users\c_yefta\desktop\project cg\city tour ver6\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1523100885 c:\users\c_yefta\desktop\project cg\city tour ver6\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\users\c_yefta\desktop\project cg\city tour ver6\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\users\c_yefta\desktop\project cg\city tour ver6\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\defs.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\compiler\pushpack1.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\compiler\poppack1.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\quaternion.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\config.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\light.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\camera.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\material.inl
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour ver6\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\users\c_yefta\desktop\project cg\city tour ver6\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1520785575 source:c:\users\c_yefta\desktop\project cg\city tour ver6\stb_image.cpp
+	"stb_image.h"
+
+1520761884 source:c:\users\c_yefta\desktop\project cg\city tour final\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\users\c_yefta\desktop\project cg\city tour final\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\users\c_yefta\desktop\project cg\city tour final\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1524144504 source:c:\users\c_yefta\desktop\project cg\city tour final\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+	<Windows.h>
+	<MMSystem.h>
+
+1471503160 c:\users\c_yefta\desktop\project cg\city tour final\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1520784513 c:\users\c_yefta\desktop\project cg\city tour final\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1523100885 c:\users\c_yefta\desktop\project cg\city tour final\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\users\c_yefta\desktop\project cg\city tour final\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\users\c_yefta\desktop\project cg\city tour final\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\defs.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\compiler\pushpack1.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\compiler\poppack1.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\quaternion.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\config.h
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\light.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\camera.h
+	"types.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\material.inl
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\users\c_yefta\desktop\project cg\city tour final\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\users\c_yefta\desktop\project cg\city tour final\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1520785575 source:c:\users\c_yefta\desktop\project cg\city tour final\stb_image.cpp
+	"stb_image.h"
+
+1520761884 source:c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1520761884 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1520761884 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1524624338 source:c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"camera.h"
+	"model.h"
+	<iostream>
+	<vector>
+	<Windows.h>
+	<MMSystem.h>
+
+1471503160 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1520784513 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1523100885 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\shader.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1521598473 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1523102758 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"stb_image.h"
+	"assimp/Importer.hpp"
+	"assimp/scene.h"
+	"assimp/postprocess.h"
+	"mesh.h"
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\defs.h
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\compiler\pushpack1.h
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\compiler\poppack1.h
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\quaternion.h
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\color4.inl
+	"color4.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\config.h
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\mesh.h
+	"types.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\light.h
+	"types.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\camera.h
+	"types.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\material.inl
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1520033798 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\assimp\postprocess.h
+	"types.h"
+
+1523102770 c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"Shader.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1520785575 source:c:\programming\a - payne downloads cpp\city tour almost final\city tour -christopher yefta - james adhitthana\city tour\stb_image.cpp
+	"stb_image.h"
+
