@@ -47,7 +47,7 @@ The animation for the city tour is done by moving the camera location coordinate
 
 ### Documentation:
 
-- [Documentation (Bahasa Indonesia)](https://github.com/jamesadhitthana/Ducktionary/raw/main/Documentation/HCI%20-%20Literature%20Review%20and%20Work%20Divisions.pdf)
+- [Documentation (Bahasa Indonesia)](https://github.com/jamesadhitthana/City-Tour/raw/main/Documentation/City%20Tour%20(Bahasa%20Indonesia)%20-Christopher%20Yefta-James%20Adhitthana.pdf)
 
 ### Notes:
 
