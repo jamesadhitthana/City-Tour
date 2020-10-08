@@ -47,11 +47,11 @@ The animation for the city tour is done by moving the camera location coordinate
 
 ### Documentation:
 
-- [Documentation (Bahasa Indonesia)](https://github.com/jamesadhitthana/City-Tour/raw/main/Documentation/City%20Tour%20(Bahasa%20Indonesia)%20-Christopher%20Yefta-James%20Adhitthana.pdf)
+- [Documentation (Bahasa Indonesia)](<https://github.com/jamesadhitthana/City-Tour/raw/main/Documentation/City%20Tour%20(Bahasa%20Indonesia)%20-Christopher%20Yefta-James%20Adhitthana.pdf>)
 
 ### Notes:
 
-- Ducktionary was created for a university project and therefore we will not be liable for any loss or damage of any nature.
+- City Tour was created for a university project and therefore we will not be liable for any loss or damage of any nature.
 
 ## Built With
 
