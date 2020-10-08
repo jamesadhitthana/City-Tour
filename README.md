@@ -1,6 +1,5 @@
 <div align="center">
-<!-- <img src="https://raw.githubusercontent.com/jamesadhitthana/Ducktionary/main/Ducktionary%20Source%20Code/src/application/images/justtheduck.png?" alt="Ducktionary Icon" width="100" height="100"> -->
-<h1 >City Tour</h1>
+<h1 >🚕 City Tour 🚁</h1>
 <p ><sup><b>A virtual tour taking you around the city accompanied by immersive atmosphere and sound. </b></sup></p>
 </div>
 
@@ -55,11 +54,15 @@ The animation for the city tour is done by moving the camera location coordinate
 
 ## Built With
 
-- Standard C++: iostream, vector, Windows.h, MMSystem.h
-- OpenGL: GLAD, GLFW, STB_Image, GLM, matrix_transform.hpp, type_ptr.hpp
-- [shader.h](https://learnopengl.com/) - Shader
-- [camera.h](https://learnopengl.com/) - Camera
-- [model.h](https://learnopengl.com/) - Model
+- [C++](https://isocpp.org/) - iostream, vector, Windows.h, MMSystem.h
+- [OpenGL](https://www.opengl.org/) - OpenGL
+  - [GLFW](https://www.glfw.org/) - GLFW
+  - [GLAD](https://github.com/Dav1dde/glad) - GLAD
+  - [STB_Image](https://github.com/nothings/stb) - STB_Image
+  - [GLM](https://glm.g-truc.net/0.9.9/index.html) - GLM, matrix_transform.hpp, type_ptr.hpp
+- [shader.h](https://learnopengl.com/Getting-started/Shaders) - Shader
+- [camera.h](https://learnopengl.com/Getting-started/Camera) - Camera
+- [model.h](https://learnopengl.com/Model-Loading/Model) - Model
 
 ## Authors
 
