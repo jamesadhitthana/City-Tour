@@ -70,4 +70,7 @@ The animation for the city tour is done by moving the camera location coordinate
 
 * **James Adhitthana** - [jamesadhitthana](https://github.com/jamesadhitthana)
 
+## Acknowledgments
+The project was inspired by [mixtech911](https://www.youtube.com/watch?v=srvyWuU-w4s)'s video and [Simon Firth](https://www.youtube.com/watch?v=GydU7ue5rLM)'s videos.
+
 ![CityTourGallery](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/gallery.png)
